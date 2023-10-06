@@ -12,5 +12,13 @@ I have a deep passion for sharing and teaching what I've learned. With this pass
 
 If you are considering involving me in a project or collaboration, please do not forget to take a look at my portfolio. I eagerly await the opportunity to work with companies that value creativity, collaboration, and innovation.
 
+## My Skills
+### Technical Skills
+{% include technicalskills.md %}
+
+### Soft Skiils
+{% include softskills.md %}
+
+
 
 
