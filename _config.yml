@@ -28,6 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://arzucaner.github.io"
 twitter_username: @arzuguneycaner
 github_username:  arzucaner
+linkedln_username: arzucaner
 search: true
 
 # Build settings

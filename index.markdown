@@ -9,4 +9,4 @@ author_profile: true
 ---
 ![arzu caner](/assets/images/Arzu%20Caner.jpeg)
 # Hi there! I'm Arzu Caner
- I am a Frontend Developer, passionate about enhancing user experiences in the digital world. Check out my favourite projects below or visit My Work or My Writing for a categorized list.
+ I am a Frontend Developer, passionate about enhancing user experiences in the digital world. Check out my favourite projects below or visit [My Work] (/mywork) or [My Writing] (/mywriting) for a categorized list.
